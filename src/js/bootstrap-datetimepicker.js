@@ -2460,15 +2460,15 @@
         disabledDates: false,
         enabledDates: false,
         icons: {
-            time: 'glyphicon glyphicon-time',
-            date: 'glyphicon glyphicon-calendar',
-            up: 'glyphicon glyphicon-chevron-up',
-            down: 'glyphicon glyphicon-chevron-down',
-            previous: 'glyphicon glyphicon-chevron-left',
-            next: 'glyphicon glyphicon-chevron-right',
-            today: 'glyphicon glyphicon-screenshot',
-            clear: 'glyphicon glyphicon-trash',
-            close: 'glyphicon glyphicon-remove'
+            time: 'icmn-clock',
+            date: 'icmn-calendar',
+            up: 'icmn-arrow-up',
+            down: 'icmn-arrow-down',
+            previous: 'icmn-arrow-left',
+            next: 'icmn-arrow-right',
+            today: 'icmn-target',
+            clear: 'icmn-bin',
+            close: 'icmn-cross'
         },
         tooltips: {
             today: 'Go to today',
